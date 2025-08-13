@@ -167,7 +167,7 @@ a:active {
 }
 
 .explanation h3 {
-	background: url(what_is.gif) no-repeat;
+	background: url(img/what_is.gif) no-repeat;
 	width: 469px;
 	height: 40px;
 	margin: 0;
@@ -179,7 +179,7 @@ a:active {
 }
 
 .participation h3 {
-	background: url(participation.gif) no-repeat;
+	background: url(img/participation.gif) no-repeat;
 	width: 469px;
 	height: 40px;
 	margin: 0;
@@ -191,7 +191,7 @@ a:active {
 }
 
 .benefits h3 {
-	background: url(benefits.gif) no-repeat;
+	background: url(img/benefits.gif) no-repeat;
 	width: 469px;
 	height: 40px;
 	margin: 0;
@@ -254,7 +254,7 @@ a.desiger-name {
 }
 
 .design-selection {
-	background: url(select.gif) no-repeat;
+	background: url(img/select.gif) no-repeat;
 	border: 1px solid #ffffff;
 	margin-top: 20px;
 	padding: 50px 0 0 5px;
@@ -280,7 +280,7 @@ a:active {
 }
 
 .design-archives {
-	background: url(archives.gif) no-repeat;
+	background: url(img/archives.gif) no-repeat;
 	border: 1px solid #ffffff;
 	margin-top: 20px;
 	padding: 50px 0 0 5px;
@@ -306,7 +306,7 @@ a:active {
 }
 
 .zen-resources {
-	background: url(resources.gif) no-repeat;
+	background: url(img/resources.gif) no-repeat;
 	border: 1px solid #ffffff;
 	margin-top: 20px;
 	padding: 50px 0 0 5px;
